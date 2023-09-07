@@ -1,0 +1,1 @@
+En este proyecto se encuentran las compuertas logicas usadas para la primera practica de Nand2tetris.
