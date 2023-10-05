@@ -25,10 +25,7 @@ Cuando se carga en el simulador de hardware, el diseño de su chip (programa .hd
 probado en el archivo .tst suministrado, debería producir los resultados enumerados en el archivo .cmp suministrado. Si el
 Las salidas reales generadas por el simulador no concuerdan con las salidas deseadas, el simulador
 detenga la simulación y produzca un mensaje de error.
-
-
 Estructura de la carpeta del proyecto
-
 
 Al construir chips de RAM a partir de piezas de chips de RAM de nivel inferior, recomendamos utilizar
 versiones de este último. De lo contrario, el simulador generará recursivamente muchos residentes en memoria.
