@@ -1,4 +1,5 @@
 Project 3
+
 The computer's main memory, also called Random Access Memory, or RAM, is an addressable
 sequence of registers, each designed to hold an n-bit value. In this project you will gradually build a
 RAM unit. This involves two main issues: (i) using gate logic to store bits persistently, over time,
@@ -24,3 +25,13 @@ Cuando se carga en el simulador de hardware, el diseño de su chip (programa .hd
 probado en el archivo .tst suministrado, debería producir los resultados enumerados en el archivo .cmp suministrado. Si el
 Las salidas reales generadas por el simulador no concuerdan con las salidas deseadas, el simulador
 detenga la simulación y produzca un mensaje de error.
+
+
+Estructura de la carpeta del proyecto
+
+
+Al construir chips de RAM a partir de piezas de chips de RAM de nivel inferior, recomendamos utilizar
+versiones de este último. De lo contrario, el simulador generará recursivamente muchos residentes en memoria.
+objetos de software, uno para cada una de las muchas partes del chip que componen una unidad RAM típica, hasta el final
+hasta el registro individual y los niveles de bits. Esto puede hacer que el simulador funcione lentamente o, peor aún,
+quedarse sin memoria de la computadora host en la que se está ejecutando el simulador.
