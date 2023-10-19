@@ -22,4 +22,4 @@ la memoria. El programa fill.asm es utilizado para probar la
 funcionalidad de la memoria y demostrar cómo se pueden construir
 programas básicos en lenguaje ensamblador para manipular la memoria.
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fweecircuit.com%2Fdifference-between-ram-and-rom%2F&psig=AOvVaw0cNBsJrxYAB8e7JiGFBcwL&ust=1697822373410000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi51LSSg4IDFQAAAAAdAAAAABAa]
+![Screenshot-from-2020-11-30-21-06-53](https://github.com/mxgue13/Proyectos/assets/116765067/d00bda2d-ab6f-465b-82bb-e53795e723b5)
